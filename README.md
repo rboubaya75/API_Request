@@ -1,4 +1,4 @@
-two sripts in Python:
+two scripts in Python:
 API_Request
 How to request an API (SNCF)
 
